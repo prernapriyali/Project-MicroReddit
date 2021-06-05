@@ -18,7 +18,7 @@ To get this project up and running locally, you must already have ruby and rails
 ## Getting Started
 
 **Setup**
- using your terminal or command line.<br>
+ using your terminal or command line https://github.com/prernapriyali/Project-MicroReddit.git.<br>
 - Change to the project directory by entering ```cd Project-MicroReddit``` in the terminal<br>
 - Next run ```bundle install``` to install the necessary dependencies<br>
 - Run ```rails db:migrate``` to setup your local database.<br>
