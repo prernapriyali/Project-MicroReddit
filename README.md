@@ -26,7 +26,8 @@ To get this project up and running locally, you must already have ruby and rails
 
 ## Authors
 
-
+- GitHub: prernapriyali@githubhandle](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
 
 ## 🤝 Contributing
 
