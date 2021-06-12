@@ -23,6 +23,9 @@ To get this project up and running locally, you must already have ruby and rails
 - Next run ```bundle install``` to install the necessary dependencies<br>
 - Run ```rails db:migrate``` to setup your local database.<br>
 - Finally run ```rails console``` to start the application.<br>
+run user = User.create(name : "your name", email: "your eamil") to create a user
+run post =Post.crate (title : "your title", body : "user_id:1") to create a post
+run comments =comment.create( body:"your body",user_id :1,post _id:1) to create a comment
 
 ## Authors
 
