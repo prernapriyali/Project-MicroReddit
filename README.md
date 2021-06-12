@@ -1,1 +1,49 @@
 # Project-MicroReddit
+
+This is the project to learn about the database arrangement on Rails.
+
+
+## Built With
+
+-   Ruby
+-   Rubocop
+-   Ubuntu
+-   Rails
+
+## Prerequisities
+
+To get this project up and running locally, you must already have ruby and rails installed on your computer.
+
+## Getting Started
+
+**Setup**
+
+- Clone this repository with ```https://github.com/prernapriyali/Project-MicroReddit.git``` using your terminal or command line.<br>
+- Change to the project directory by entering ```cd Project-MicroReddit``` in the terminal<br>
+- Next run ```bundle install``` to install the necessary dependencies<br>
+- Run ```rails db:migrate``` to setup your local database.<br>
+- Finally run ```rails console``` to start the application.<br>
+run user = User.create(name : "your name", email: "your eamil") to create a user
+run post =Post.crate (title : "your title", body : "user_id:1") to create a post
+run comments =comment.create( body:"your body",user_id :1,post _id:1) to create a comment
+
+## Authors
+
+ GitHub: prernapriyali@githubhandle](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+-   This Project was part of an assignment available on The Odin Project.
+-   Our thanks to Microverse and all our peers and colleagues there.
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
